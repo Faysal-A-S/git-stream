@@ -10,7 +10,16 @@ const Feed = () => {
           <p>Sort</p>
         </div>
       </div>
-      <RepoCard />
+      <div className="grid gap-4">
+        <RepoCard />
+        <RepoCard />
+        <RepoCard />
+        <RepoCard />
+        <RepoCard />
+        <RepoCard />
+        <RepoCard />
+        <RepoCard />
+      </div>
     </div>
   );
 };

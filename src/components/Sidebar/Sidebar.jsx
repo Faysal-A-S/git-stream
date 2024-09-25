@@ -7,7 +7,7 @@ const Sidebar = () => {
   const pathname = usePathname();
 
   return (
-    <div className="max-h-screen p-6 border-r border-gray-300 bg-gray-50">
+    <div className="h-full1 p-6 border-r border-gray-300 bg-gray-50">
       <div className="bg-gray-200 p-4  rounded-[.5rem] mb-6 font-extrabold">
         Faysal Ahmed
       </div>
